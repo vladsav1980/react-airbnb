@@ -1,0 +1,10 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.description__text {
+  color: black;
+  line-height: 1.5em;
+}

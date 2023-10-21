@@ -1,0 +1,10 @@
+.additional {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.additional__list {
+  display: grid;
+  gap: 12px;
+}
